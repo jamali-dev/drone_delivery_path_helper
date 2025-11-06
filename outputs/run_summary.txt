@@ -1,0 +1,5 @@
+Drone Delivery Path Helper — Run Summary
+Nodes: 73 (Depot: 1, Customers: 60)
+NFZ count: 2
+Drone speed (avg): 15
+Vehicle speed (avg): 10
