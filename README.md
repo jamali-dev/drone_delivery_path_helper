@@ -88,7 +88,7 @@ and represents how I aim to bridge **AI-assisted development** with **hands-on u
 ##  How to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/drone_delivery_path_helper.git
+git clone https://github.com/jamali-dev/drone_delivery_path_helper.git
 
 # 2. Enter project folder
 cd drone_delivery_path_helper
