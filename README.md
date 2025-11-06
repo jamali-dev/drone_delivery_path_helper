@@ -107,7 +107,7 @@ python3 src/final_plot_with_real_nfz.py
 
 # 7. (Optional) Run drone animation
 python3 src/animate_drone.py
-
+```
 ---------- 
 
 Future Improvements
