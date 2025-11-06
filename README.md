@@ -45,17 +45,18 @@ It processes multiple datasets, cleans and merges them, visualizes the delivery 
 drone_delivery_path_helper/
 │
 ├── src/
-│ ├── prepare_dataset.py # Cleans & merges raw data
-│ ├── plot_with_nfz.py # Plots NFZ visualization
-│ ├── final_plot_with_real_nfz.py # Combined visualization
-│ ├── animate_drone.py # Drone animation with avoidance
+│   ├── prepare_dataset.py          # Cleans & merges raw data  
+│   ├── plot_with_nfz.py            # Plots NFZ visualization  
+│   ├── final_plot_with_real_nfz.py # Combined visualization  
+│   ├── animate_drone.py            # Drone animation with avoidance  
 │
 ├── data/
-│ ├── raw/ # Original Mao et al. dataset
-│ └── processed/ # Cleaned CSVs + output visuals
+│   ├── raw/                        # Original Mao et al. dataset  
+│   └── processed/                  # Cleaned CSVs + output visuals  
 │
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+├── requirements.txt                # Dependencies  
+└── README.md                       # Documentation  
+
 ---
 
 ## 📊 Sample Outputs
@@ -71,6 +72,17 @@ drone_delivery_path_helper/
 *Mao et al. (2023)* — “Values of Parameters for Drone Routing.”  
 Used for educational and research purposes under fair academic use.
 
+---
+## 💬 Author & Notes
+
+Hi! I'm **Murtaza Jamali**, a **first-semester Computer Science student at VIT Vellore**.  
+This is my **second Python project**, developed as part of my learning journey into **data handling, visualization, and drone path simulation** using real-world research data.
+
+I built this project with the guidance of **ChatGPT (OpenAI)** — leveraging it as a learning assistant to better understand dataset preprocessing, visualization techniques, and algorithmic logic.  
+Every line of code was tested, debugged, and understood step-by-step to strengthen my programming foundation.
+
+This repository reflects my approach to **learning through exploration and structured experimentation**,  
+and represents how I aim to bridge **AI-assisted development** with **hands-on understanding**. 
 ---
 
 ##  How to Run
